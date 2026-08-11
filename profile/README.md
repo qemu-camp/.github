@@ -1,7 +1,7 @@
-<h1 align="center">QEMU Training Camp</h1>
+<h1 align="center">QEMU Camp 2026</h1>
 
 <p align="center">
-  <strong>以模拟器与虚拟化技术为底座的 CPU / GPGPU 体系结构开放学习与实践平台</strong>
+  <strong>以模拟器/虚拟化技术为底座的 AI Infra 学习与实践平台</strong>
 </p>
 
 <p align="center">
@@ -127,13 +127,14 @@
 
 ## 关于 QEMU 训练营
 
-QEMU 训练营是在清华大学陈渝老师团队的倡议下，由格维开源社区发起，并与华中科技大学开放原子俱乐部联合主办的公益性技术训练营。我们希望搭建一个以模拟器与虚拟化技术为底座、面向 CPU / GPGPU 体系结构的开放学习与实践平台。
+QEMU 训练营由[格维开源社区](https://github.com/gevico)与[华中科技大学开放原子俱乐部](https://hust.openatom.club/)联合主办，最初由清华大学陈渝老师团队提出倡议，旨在搭建一个以模拟器/虚拟化技术为底座的 AI Infra 学习与实践平台。训练营全程免费，资料开源，社区共建。
 
-> 发起组织：格维开源社区 · 维护团队：QEMU 训练营项目组<br />
+> 联合主办：[格维开源社区](https://github.com/gevico) · [华中科技大学开放原子俱乐部](https://hust.openatom.club/)<br />
+> 维护团队：[QEMU 训练营项目组](https://github.com/qemu-camp)<br />
 > 文档许可：CC BY-SA 4.0 · 代码许可：MIT
 
 <p align="center">
-  <a href="https://qemu.gevico.online/"><strong>访问 QEMU Training Camp 完整网站</strong></a>
+  <a href="https://qemu.gevico.online/"><strong>访问 QEMU Camp 2026 完整网站</strong></a>
   ·
   <a href="https://github.com/qemu-camp/qemu-camp-tutorial"><strong>查看课程源码</strong></a>
 </p>
