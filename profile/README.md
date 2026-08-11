@@ -108,7 +108,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/hust.png" alt="华中科技大学开放原子开源俱乐部" width="120" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/.github/main/profile/assets/hust-openatom-club.png" alt="华中科技大学开放原子开源俱乐部" width="180" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/cnb.png" alt="腾讯云 CNB 社区" width="120" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/rv2036.png" alt="甲辰计划" width="120" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/os2edu.png" alt="开源操作系统社区" width="120" /></td>
