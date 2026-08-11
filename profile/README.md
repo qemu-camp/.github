@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://qemu.gevico.online/">
-    <img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/qemu-camp-hero-bg.png" alt="QEMU Training Camp" width="100%" />
-  </a>
-</div>
-
 <h1 align="center">QEMU Training Camp</h1>
 
 <p align="center">
