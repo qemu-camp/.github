@@ -18,7 +18,7 @@
   <a href="https://qemu.gevico.online/blogs/"><strong>技术博客</strong></a>
 </p>
 
-<table width="100%">
+<table align="center">
   <tr>
     <td align="center"><strong>2,167</strong><br /><sub>累计报名人数</sub></td>
     <td align="center"><strong>637</strong><br /><sub>累计覆盖高校</sub></td>
@@ -106,7 +106,7 @@
 
 ## 合作伙伴
 
-<table width="100%">
+<table align="center">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/hust.png" alt="华中科技大学开放原子开源俱乐部" width="120" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/cnb.png" alt="腾讯云 CNB 社区" width="120" /></td>
