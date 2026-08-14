@@ -104,19 +104,37 @@
   </tr>
 </table>
 
+## 主办单位
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gevico">
+        <img src="https://raw.githubusercontent.com/qemu-camp/.github/main/profile/assets/gtoc-logo-horizontal.png" alt="格维开源社区" width="280" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://hust.openatom.club/">
+        <img src="https://raw.githubusercontent.com/qemu-camp/.github/main/profile/assets/hust-openatom-club.png" alt="华中科技大学开放原子俱乐部" width="220" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 合作伙伴
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/.github/main/profile/assets/hust-openatom-club.png" alt="华中科技大学开放原子开源俱乐部" width="180" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/cnb.png" alt="腾讯云 CNB 社区" width="120" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/rv2036.png" alt="甲辰计划" width="120" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/os2edu.png" alt="开源操作系统社区" width="120" /></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/kubuds.svg" alt="苦芽科技" width="120" /></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/kubuds.svg" alt="苦芽科技" width="120" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/metax.svg" alt="沐曦" width="120" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/opencamp.png" alt="OpenCamp 训练营社区" width="120" /></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/kendryte.svg" alt="Kendryte 勘智" width="120" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/zettai.png" alt="Zett.ai" width="120" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/qemu-camp/qemu-camp-tutorial/main/docs/image/partners/linux-tools.png" alt="Linux 工具社区" width="120" /></td>
